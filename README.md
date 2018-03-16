@@ -5,3 +5,4 @@ This is a simple readme file
 Some new text.
 ##HEADING 3
 Changed text.
+Bad text.
