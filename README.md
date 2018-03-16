@@ -6,3 +6,4 @@ Some new text.
 ##HEADING 3
 Changed text.
 Bad text.
+#This might cause a conflict.
